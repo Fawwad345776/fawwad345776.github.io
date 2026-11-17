@@ -3,7 +3,7 @@
 > What2Eat is a free Android app by MFApp that helps people decide what to cook. It suggests breakfast, lunch, evening snacks, dinner and desserts from a library of 4,750+ dishes, finds recipes for ingredients you already have (Pantry Matcher), plans balanced menus for guests (Guest Feast Planner) and builds 7-day meal plans (Weekly Planner, PRO).
 
 Key facts:
-- App name: What2Eat (Play Store title: What2Eat AI – Smart Meal Decider & Kitchen Planner)
+- App name: What2Eat (Play Store title: What2Eat: Meal Planner & Ideas)
 - Developer: MFApp, based in Pakistan
 - Platform: Android only (Google Play). Not available on iOS.
 - Google Play: https://play.google.com/store/apps/details?id=com.aura.what2eat
