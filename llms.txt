@@ -1,0 +1,37 @@
+# What2Eat
+
+> What2Eat is a free Android app by MFApp that helps people decide what to cook. It suggests breakfast, lunch, evening snacks, dinner and desserts from a library of 4,750+ dishes, finds recipes for ingredients you already have (Pantry Matcher), plans balanced menus for guests (Guest Feast Planner) and builds 7-day meal plans (Weekly Planner, PRO).
+
+Key facts:
+- App name: What2Eat (Play Store title: What2Eat AI – Smart Meal Decider & Kitchen Planner)
+- Developer: MFApp, based in Pakistan
+- Platform: Android only (Google Play). Not available on iOS.
+- Google Play: https://play.google.com/store/apps/details?id=com.aura.what2eat
+- Package name: com.aura.what2eat
+- Price: free to download; optional PRO subscription removes daily/monthly limits and unlocks the Weekly Planner
+- Dish library: 4,750+ dishes with ingredients, steps, prep time, servings, difficulty and chef's tips
+- Cuisines: Pakistani, Indian, Bangladeshi, Afghan, Turkish, Emirati, Saudi, Chinese, Thai, Japanese, Italian, British, American, Mexican
+- Recipe languages: English, Roman Urdu, Urdu, Hindi, Arabic, Spanish, Bengali
+- Other features: Special Occasion menus (Ramadan, Eid, Dawat), Dine Out nearby restaurants, Kitchen Preferences, 30-day anti-repetition memory, community dishes, cooked history
+- Support: info.mfsoft@gmail.com
+- Privacy policy: https://fawwad345776.github.io/What2Eat/privacy.html
+
+## Main pages
+- [Home](https://fawwad345776.github.io/): overview of What2Eat
+- [Features](https://fawwad345776.github.io/features/): detailed description of every feature, and Free vs PRO
+- [How it works](https://fawwad345776.github.io/how-it-works/): step-by-step use of the Meal Decider and other tools
+- [FAQ](https://fawwad345776.github.io/faq/): common questions about the app
+- [About](https://fawwad345776.github.io/about/): who builds What2Eat and why
+- [Contact](https://fawwad345776.github.io/contact/): support and partnership contact
+
+## Guides
+- [What should I cook today? A simple way to decide in five minutes](https://fawwad345776.github.io/blog/what-should-i-cook-today/): A five-question method that turns “I don't know” into a dish you can start cooking, plus ideas for every kind of day.
+- [The best ways to plan daily meals without a complicated system](https://fawwad345776.github.io/blog/best-ways-to-plan-daily-meals/): Five planning methods, from theme nights to batch prep, and how to choose the one your household will actually follow.
+- [What to cook with ingredients you already have](https://fawwad345776.github.io/blog/what-to-cook-with-ingredients-you-already-have/): A simple base-plus-protein method for turning a half-empty fridge into dinner, with combinations that work.
+- [Easy Pakistani dinner ideas for every night of the week](https://fawwad345776.github.io/blog/easy-pakistani-dinner-ideas/): Weeknight daal and sabzi, faster karahi, and weekend pulao: Pakistani dinners organised by time and occasion.
+- [Quick breakfast ideas for busy mornings](https://fawwad345776.github.io/blog/quick-breakfast-ideas-for-busy-mornings/): Five-minute, ten-minute and make-ahead breakfasts, desi and international, for mornings when every minute counts.
+- [How to reduce food waste at home](https://fawwad345776.github.io/blog/how-to-reduce-food-waste-at-home/): Twelve practical habits for planning, shopping, storing and cooking so less food ends up in the bin.
+- [How to plan meals for guests without the stress](https://fawwad345776.github.io/blog/how-to-plan-meals-for-guests/): How many dishes to cook, how much to make per person, and a timeline that gets everything to the table hot.
+- [Easy lunch ideas for every day](https://fawwad345776.github.io/blog/easy-lunch-ideas-for-every-day/): Homestyle desi lunches, packable boxes for office and school, and fast options when you only have 15 minutes.
+- [How to decide what to eat every day](https://fawwad345776.github.io/blog/how-to-decide-what-to-eat-every-day/): Why daily food decisions wear you out, and the rules, rotations and tools that make them almost automatic.
+- [How meal planning makes cooking easier](https://fawwad345776.github.io/blog/how-meal-planning-makes-cooking-easier/): Seven ways a simple plan saves time, money and stress in the kitchen, and how to start with just three dinners.

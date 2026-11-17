@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /project-docs/
+
+Sitemap: https://fawwad345776.github.io/sitemap.xml
